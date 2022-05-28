@@ -16,7 +16,7 @@ Another is Content-based filtering which uses a series of discrete characteristi
 
 ![Colaborative filtering I](https://user-images.githubusercontent.com/95162790/170810974-a225d0cc-0cd7-4902-870a-8d85d19cb34d.jpg)
 
-![alt algo](https://drive.google.com/file/d/1cIYRidOGv8btlehqrblZoHo60OIzOWl0/view?usp=sharing)
+![alt algo](https://github.com/iankitnain/engage/blob/main/1653743820685.jpg)
 
 It gives result on the basis of cosine similarities.
 
