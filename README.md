@@ -12,18 +12,13 @@ Another is Content-based filtering which uses a series of discrete characteristi
 
 # In my project I am using Collaborative filtering technique for predicting.
 
-![Colaborative filtering II](https://user-images.githubusercontent.com/95162790/170810992-c6831c6c-815b-439c-a9c3-a24821b4a24e.jpg)
-
-![Colaborative filtering I](https://user-images.githubusercontent.com/95162790/170810974-a225d0cc-0cd7-4902-870a-8d85d19cb34d.jpg)
-
 ![alt algo](https://github.com/iankitnain/engage/blob/main/1653743820685.jpg)
 
 It gives result on the basis of cosine similarities.
 
-In the CSV file, we have following attributes -
-Rank,Title,Genre,Description,Director,Actors,Year,Runtime (Minutes),Rating,Votes,Revenue (Millions),Metascore
+In the CSV file, we have attributes like Rank,Title,Genre,Description,Director,Actors,Year,Runtime (Minutes),Rating etc.
 
-And on the basis of Director, Actors,and Genre we will be recommending movies to users.
+We will be recommending movies to users on the basis of directors , actors , and genre of which they will watch
 
-Thank you for visiting :)
+Thank you :-)
 
